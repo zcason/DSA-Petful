@@ -1,0 +1,26 @@
+div {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.landing-page{
+    background-color: #7FB3D5; 
+    height: 100vh; 
+}
+
+article {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+img {
+margin: 20px auto;
+}
+
+.start {
+    margin-left: 46%;
+    margin-right: 44%;
+}

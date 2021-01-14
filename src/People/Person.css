@@ -1,0 +1,9 @@
+.people-container {
+    display: flex;
+    justify-content: center;
+    margin: 10px auto;
+}
+
+.ul-people{
+    margin-right: 32px ;
+}

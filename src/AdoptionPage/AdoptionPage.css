@@ -1,0 +1,30 @@
+.adopt-content {
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.people {
+    margin: 0 auto;
+}
+
+form {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 1px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.pets {
+    margin-left: auto;
+    margin-right: auto;
+}

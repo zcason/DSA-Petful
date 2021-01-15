@@ -1,3 +1,4 @@
 export default {
-    URL: 'http://localhost:8000'
+    URL: 'https://lit-hamlet-66905.herokuapp.com',
+    TOKEN_KEY: 'petful-token'
 };
